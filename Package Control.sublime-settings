@@ -1,0 +1,27 @@
+{
+	"installed_packages":
+	[
+		"AngularJS",
+		"AutoFileName",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"GitHubinator",
+		"HTML5",
+		"LESS",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Puppet",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-coffeelint",
+		"SublimeLinter-contrib-puppet-lint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-ruby"
+	]
+}
