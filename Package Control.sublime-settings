@@ -25,6 +25,7 @@
 		"SublimeLinter-contrib-puppet-lint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
-		"SublimeLinter-ruby"
+		"SublimeLinter-ruby",
+		"Theme - Cobalt2"
 	]
 }
