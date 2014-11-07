@@ -3,6 +3,7 @@
 	[
 		"AngularJS",
 		"AutoFileName",
+		"Better CoffeeScript",
 		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
@@ -15,6 +16,7 @@
 		"MarkdownEditing",
 		"Package Control",
 		"Puppet",
+		"Ruby Slim",
 		"Sass",
 		"SCSS",
 		"SideBarEnhancements",
