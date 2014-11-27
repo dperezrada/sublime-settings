@@ -1,0 +1,8 @@
+{
+ "folders": [
+  {
+   "path": "/Users/jidonoso/src/vestmed/web",
+   "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", ".tmp", ".sass-cache"]
+  }
+ ]
+}

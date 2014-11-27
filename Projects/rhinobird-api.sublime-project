@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jidonoso/src/rhinobird/api"
+		},
+        {
+            "follow_symlinks": true,
+            "path": "/Users/jidonoso/src/rhinobird/transcoding-service"
+        },
+        {
+            "follow_symlinks": true,
+            "path": "/Users/jidonoso/src/rhinobird/streaming-server"
+        }
+	]
+}

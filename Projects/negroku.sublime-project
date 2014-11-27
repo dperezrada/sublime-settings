@@ -1,0 +1,23 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/jidonoso/src/negroku"
+		},
+		{
+			"path": "/Users/jidonoso/src/capistrano-bower"
+		},
+		{
+			"path": "/Users/jidonoso/src/capistrano-eye"
+		},
+		{
+			"path": "/Users/jidonoso/src/capistrano-nodenv"
+		},
+    {
+        "path": "/Users/jidonoso/src/capistrano-route53"
+    },
+    {
+        "path": "/Users/jidonoso/src/capistrano3-nginx"
+    }
+	]
+}

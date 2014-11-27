@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				"node_modules",
+				"dist"
+			],
+			"follow_symlinks": true,
+			"path": "/Users/jidonoso/src/rhinobird/web"
+		}
+	]
+}
