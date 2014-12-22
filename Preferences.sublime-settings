@@ -8,6 +8,11 @@
 		"Markdown",
 		"Vintage"
 	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
 	"scroll_past_end": true,
 	"tab_size": 2,
 	"theme": "Cobalt2.sublime-theme",
