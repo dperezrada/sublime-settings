@@ -1,21 +1,45 @@
 {
-	"color_scheme": "Packages/User/cobalt2 (SL).tmTheme",
+	"bold_folder_labels": true,
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 12,
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"font_face": "Monaco",
+	"font_options": "subpixel_antialias",
+	"font_size": 15.0,
+	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
 	],
 	"indent_guide_options":
 	[
 		"draw_normal",
 		"draw_active"
 	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"paths":
+	{
+		"linux":
+		[
+		],
+		"osx":
+		[
+			"~/.rbenv/shims",
+			"~/.virtualenvs/imetricas/bin/"
+		],
+		"windows":
+		[
+		]
+	},
+	"rulers":
+	[
+		80
+	],
 	"scroll_past_end": true,
+	"tab_completion": false,
 	"tab_size": 2,
 	"theme": "Cobalt2.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
 }
